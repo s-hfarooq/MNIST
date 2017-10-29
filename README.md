@@ -2,7 +2,7 @@
 
 
 ## Prerequisites
-To run the files, you must have TensorFlow installed on your system, look at [tensorflow.org/install](https://www.tensorflow.org/install/) for more info. Additionally, you must have Python 3.0 or later, go to [python.org](https://www.python.org/downloads/) for more info. 
+To run the files, you must have TensorFlow installed on your system, look at [tensorflow.org/install](https://www.tensorflow.org/install/) for more info. Additionally, you must have Python 3.0 or later, go to [python.org/downloads](https://www.python.org/downloads/) for more info. 
 
 
 ## Running the Program
