@@ -10,4 +10,4 @@ After installing TensorFlow, enable  it in terminal. On MacOS, type ``` source a
 
 
 ## Creating the Model
-If you want to recreate the model, run the ```MNIST.py``` file, changing the value on ```line 82``` to however many trials you would like. On a system with a GTX 1080, running this trial with 20,000 iterations takes about 3 minutes, while it takes around 8 hours on a system with only a dual core processor, so don't run this if you don't have a decent GPU. 
+If you want to recreate the model again (not recommended, just use the one that's already in the repository), run the ```MNIST.py``` file, changing the value on ```line 82``` to however many trials you would like. On a system with a GTX 1080, running this trial with 20,000 iterations takes about 3 minutes, while it takes around 8 hours on a system with only a dual core processor, so don't run this if you don't have a decent GPU. 
